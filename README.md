@@ -33,10 +33,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cilladev&show_icons=true&hide_border=true" height="140" alt="github stats" />
-</div>
 
 
 
