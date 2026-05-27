@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=87A96B&center=true&vCenter=true&width=500&lines=hi%2C+I%27m+Priscilla+%F0%9F%91%8B;swe+%40+nomura+%C2%B7+london;currently+shipping+docwoman)](https://github.com/cilladev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2500&pause=800&color=87A96B&center=true&vCenter=true&width=500&lines=hi%2C+I%27m+Priscilla+%F0%9F%91%8B;swe+%40+nomura+%C2%B7+london;currently+building+xlstream)](https://github.com/cilladev)
 
 </div>
 
@@ -35,8 +35,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cilladev&show_icons=true&hide_border=true&count_private=true&hide_title=true&theme=transparent&icon_color=87A96B&text_color=666666" height="140" alt="github stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=cilladev&show_icons=true&hide_border=true" height="140" alt="github stats" />
 </div>
 
 
