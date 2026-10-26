@@ -25,6 +25,7 @@
 
 | PR | What it did |
 |:--|:--|
+| [`tt-a1i/archify#398`](https://github.com/tt-a1i/archify/pull/398) | feat(viewer): authored node explanations in the semantic passport |
 | [`tafia/calamine#645`](https://github.com/tafia/calamine/pull/645) | Fixed LOG10 → LOG11 corruption in shared formulas |
 | [`PSU3D0/formualizer#81`](https://github.com/PSU3D0/formualizer/pull/81) | Fixed =-2^2 returning -4 instead of 4 (unary minus precedence vs Excel) |
 
